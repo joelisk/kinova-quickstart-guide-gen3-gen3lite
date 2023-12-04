@@ -1,6 +1,8 @@
 # Quickstart
 - Joe Lisk's quick and dirty guide to getting a Kinova Gen3 arm or Gen3 Lite arm up and running (sim + real)
+- Read at your own risk and no guarantees anything here will work for your project. This is just a compilation of some basic steps, resources, and troubleshooting common issues I had when running the arms
 - Worked on Ubuntu 20.04 + ROS Noetic with RViz & Gazebo for sim and USB for real with the MoveIt library for trajectory planning
+- Assuming you already have the arm unboxed and configured. [Here](file:///C:/Users/17088/Downloads/KINOVA_Gen3_Ultra_lightweight_robot-%20Quick_Start_Guide.pdf) is a guide for doing so
 
 # AFTER cloning ros_kortex repo [here](https://github.com/Kinovarobotics/ros_kortex) and running the commands to set up the repo:
 ## Sim:
