@@ -1,5 +1,5 @@
 # Quickstart
-- Joe Lisk's quick and dirty guide to getting a Kinova Gen3 arm or Gen3 Lite arm up and running (sim + real)
+- Joe Lisk's quickstart guide to getting a Kinova Gen3 arm or Gen3 Lite arm up and running (sim + real)
 - Read at your own risk and no guarantees anything here will work for your project. This is just a compilation of some basic steps, resources, and troubleshooting common issues I had when running the arms
 - Worked on Ubuntu 20.04 + ROS Noetic with RViz & Gazebo for sim and USB for real with the MoveIt library for trajectory planning
 - Assuming you already have the arm unboxed and configured. There are online guides for doing so e.g. `kinova gen3 ultra lightweight quick start guide`
